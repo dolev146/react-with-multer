@@ -54,6 +54,10 @@ export default function Login({ history }) {
                     <button className="btn btn-primary">login</button>
                 </div>
             </form>
+
+            <p>Admin: <br/>
+              username:  dolevdo  <br />
+               password: 123</p>
         </div>
     )
 }
