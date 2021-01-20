@@ -12,6 +12,7 @@ import clsx from 'clsx';
 const useStyles = makeStyles((theme) => ({
     root: {
         maxWidth: 345,
+        marginTop: '10px'
     },
     media: {
         height: 0,
