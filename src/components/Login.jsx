@@ -55,9 +55,14 @@ export default function Login({ history }) {
                 </div>
             </form>
 
+           <div className="flex-login">
             <p>Admin: <br/>
-              username:  dolevdo  <br />
-               password: 123</p>
+              username:  dolevdo     <br />
+               password: 123     </p>
+                <p>Regular user: <br/>
+              username:  user     <br />
+               password: 123     </p>
+                </div>
         </div>
     )
 }
